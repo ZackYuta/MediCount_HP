@@ -223,3 +223,27 @@ footer {
     font-size: 0.9rem;
     color: #555;
 }
+
+/* 言語の切り替え(i18n/build.py が各ページに入れる) */
+.lang-switch {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem 0.9rem;
+    margin-bottom: 0.8rem;
+    font-size: 0.9rem;
+}
+
+.lang-switch a {
+    color: rgba(255, 255, 255, 0.85);
+    text-decoration: none;
+}
+
+.lang-switch a:hover {
+    text-decoration: underline;
+}
+
+.lang-switch a[aria-current="page"] {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
