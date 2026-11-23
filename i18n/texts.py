@@ -256,19 +256,21 @@ INDEX = {
         ": Usa las funciones Pro con los medicamentos de toda tu familia.</p>",
         "：全家人的药都能使用 Pro 功能。</p>",
         ": 가족 모두의 약에 Pro 기능을 쓸 수 있어요.</p>"],
+    'src="MedicineList.png"': ['src="screenshots/en/list.png"', 'src="screenshots/pt-BR/list.png"', 'src="screenshots/es-419/list.png"', 'src="screenshots/zh-Hans/list.png"', 'src="screenshots/ko/list.png"'],
+    'src="DetailView.png"': ['src="screenshots/en/detail.png"', 'src="screenshots/pt-BR/detail.png"', 'src="screenshots/es-419/detail.png"', 'src="screenshots/zh-Hans/detail.png"', 'src="screenshots/ko/detail.png"'],
     "<h2>アプリのスクリーンショット</h2>": ["<h2>Screenshots</h2>", "<h2>Capturas de tela</h2>", "<h2>Capturas de pantalla</h2>", "<h2>App 截图</h2>", "<h2>앱 스크린샷</h2>"],
     'alt="服用記録カウンターのリスト画面：吸入薬・点鼻薬の残量管理"': [
-        'alt="MediCount list screen: doses left in inhalers and nasal sprays (shown in Japanese)"',
-        'alt="Tela de lista do MediCount: doses restantes de inaladores e sprays nasais (em japonês)"',
-        'alt="Pantalla de lista de MediCount: dosis restantes de inhaladores y sprays nasales (en japonés)"',
-        'alt="MediCount 列表画面：吸入剂、鼻喷剂剩余量管理（日文界面）"',
-        'alt="MediCount 목록 화면: 흡입제·비강 스프레이 잔량 관리(일본어 화면)"'],
+        'alt="MediCount list screen: doses left in inhalers and nasal sprays"',
+        'alt="Tela de lista do MediCount: doses restantes de inaladores e sprays nasais"',
+        'alt="Pantalla de lista de MediCount: dosis restantes de inhaladores y sprays nasales"',
+        'alt="MediCount 列表画面：吸入剂、鼻喷剂剩余量管理"',
+        'alt="MediCount 목록 화면: 흡입제·비강 스프레이 잔량 관리"'],
     'alt="服用記録カウンターの詳細画面：服薬履歴と残量チェック"': [
-        'alt="MediCount detail screen: dose history and doses left (shown in Japanese)"',
-        'alt="Tela de detalhes do MediCount: histórico e doses restantes (em japonês)"',
-        'alt="Pantalla de detalles de MediCount: historial y dosis restantes (en japonés)"',
-        'alt="MediCount 详情画面：用药记录与剩余量（日文界面）"',
-        'alt="MediCount 상세 화면: 사용 기록과 잔량 확인(일본어 화면)"'],
+        'alt="MediCount detail screen: dose history and doses left"',
+        'alt="Tela de detalhes do MediCount: histórico e doses restantes"',
+        'alt="Pantalla de detalles de MediCount: historial y dosis restantes"',
+        'alt="MediCount 详情画面：用药记录与剩余量"',
+        'alt="MediCount 상세 화면: 사용 기록과 잔량 확인"'],
 }
 
 PRIVACY = {
